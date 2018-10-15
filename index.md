@@ -1,8 +1,6 @@
 ## 歡淫
 
-You can use the [editor on GitHub](https://github.com/zyox123cc/zyox123cc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+這是一個網站上的文字
 
 ### Markdown
 
